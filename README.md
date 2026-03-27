@@ -2,8 +2,6 @@
 
 Welcome to the **Elixir** project! A modern, responsive, and visually engaging landing page built with **Bootstrap 5**, **HTML**, **CSS**, and **JavaScript**. This project showcases a clean UI design combined with smooth scrolling, animations, and interactive components.
 
----
-
 ## 🎯 Project Overview
 
 Elixir is a one-page website designed to deliver a premium user experience with a strong focus on layout, responsiveness, and smooth navigation.
@@ -17,8 +15,6 @@ This project enables users to:
 - **User-Friendly Forms:** Contact form with structured input fields.
 - **Responsive Experience:** Fully optimized for all screen sizes.
 
----
-
 ## 🚀 Features
 
 - **Bootstrap 5:** Responsive grid system (row & column structure).
@@ -29,8 +25,6 @@ This project enables users to:
 - **Modern Components:** Cards, buttons, navbar, forms, and more.
 - **Clean Code Structure:** Organized and maintainable files.
 
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** (Structure)
@@ -40,13 +34,9 @@ This project enables users to:
 - **AOS (Animate On Scroll)** (Animations)
 - **Fancybox** (Image Gallery)
 
----
-
 ## 📸 Preview
 
 ![Preview](/screen.gif)
-
----
 
 ## ⚙️ Setup & Installation
 
@@ -62,8 +52,6 @@ cd Elixir
 # Open with Live Server or run directly in browser
 ```
 
----
-
 ## 📁 Project Structure
 
 ```bash
@@ -77,8 +65,6 @@ elixir/
 │── README.md
 ```
 
----
-
 ## ✨ Highlights
 
 - Smooth scroll navigation experience
@@ -86,8 +72,6 @@ elixir/
 - Responsive Bootstrap layout
 - Interactive portfolio section
 - Clean and modern UI design
-
----
 
 ## 📧 Contact
 
